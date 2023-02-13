@@ -5,10 +5,6 @@ Have you ever wanted to keep track of your monthly income and expenses but didn'
 To visualize the monthly spending, we will use a Sankey Chart from Plotly.
 
 
-## Video Tutorial
-[![YouTube Video](https://img.youtube.com/vi/3egaMfE9388/0.jpg)](https://youtu.be/3egaMfE9388)
-
-
 ## Demo Website
 ⭐ https://share.streamlit.io/sven-bo/streamlit-income-expense-tracker/app.py
 
