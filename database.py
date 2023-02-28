@@ -4,9 +4,10 @@ from dotenv import load_dotenv # pip install python-dotenv
 import os
 
 # Load the environment variables
-load_dotenv(".env")
-DETA_KEY = os.getenv("DETA_KEY")
+# load_dotenv(".env")
+# DETA_KEY = os.getenv("DETA_KEY")
 
+DETA_KEY = 
 # Initialize with a project key
 deta = Deta(DETA_KEY)
 
