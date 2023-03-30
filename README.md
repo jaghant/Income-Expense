@@ -6,10 +6,10 @@ To visualize the monthly spending, we will use a Sankey Chart from Plotly.
 
 
 ## Demo Website
-⭐ https://share.streamlit.io/sven-bo/streamlit-income-expense-tracker/app.py
+⭐ 
 
 ## Demo
-![DEMO GIF](https://raw.githubusercontent.com/Sven-Bo/streamlit-income-expense-tracker/master/demo.gif)
+
 
 
 ## Run the app
@@ -25,5 +25,4 @@ ctrl-c
 To run this project, you will need to add the following environment variables
 `DETA_KEY`
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
 
