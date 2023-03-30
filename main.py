@@ -81,6 +81,7 @@ if selected == "Data Entry":
                 expenses = {expense: st.session_state[expense] for expense in expenses}
                 db.insert_period(period, incomes, expenses, comment)
                 st.success("Data saved!")  
+                st.balloons()
             
 #------PLOT RERIODS------
 if selected == "Visualization":
