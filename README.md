@@ -5,24 +5,8 @@ Have you ever wanted to keep track of your monthly income and expenses but didn'
 To visualize the monthly spending, we will use a Sankey Chart from Plotly.
 
 
-## Demo Website
-⭐ 
+## Website
 
-## Demo
+![image](https://user-images.githubusercontent.com/108980892/229763366-42fcf1a8-3dd9-4eb3-8a62-6c16322fc4e9.png)
 
-
-
-## Run the app
-```
-# vanilla terminal
-streamlit run app.py
-
-# quit
-ctrl-c
-```
-
-## Environment Variables
-To run this project, you will need to add the following environment variables
-`DETA_KEY`
-
-
+![image](https://user-images.githubusercontent.com/108980892/229763747-f5ab0e55-d660-413c-8d53-3eed3961043f.png)
